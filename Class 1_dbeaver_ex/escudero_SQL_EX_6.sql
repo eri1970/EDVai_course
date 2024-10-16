@@ -1,0 +1,2 @@
+insert into customers (customer_id, company_name, contact_name, contact_title, address, city, region, postal_code, country, phone, fax)
+values ('abcde', 'my_compny', 'my_contcat', 'Manager', '001_47_street', 'BA', 'ARG', 'C1426YF', 'Argentina', '00549111234567', '0054112345678')
