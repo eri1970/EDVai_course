@@ -1,4 +1,5 @@
 -- Ex_6 Obtener el ranking de los productos más vendidos
+-- NO LOGRE SACARLO
 
 SELECT 
     p.product_name,
